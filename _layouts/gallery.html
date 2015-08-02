@@ -2,20 +2,7 @@
 layout: gallery
 ---
 
-
-<!-- 
-<div class="row">
-	<div class="medium-8 columns t30">
-		{% include pagination.html %}
-	</div> 
-
-
-	<div class="medium-4 columns t30">
-		{% include sidebar.html %}
-	</div>
-</div>
--->
-
+{% include head.html %}
 <html lang="en">
     <head>
 		<meta charset="UTF-8"/>
@@ -28,7 +15,12 @@ layout: gallery
 		<noscript><link rel="stylesheet" type="text/css" href="css/noJS.css"/></noscript>
 		<!--[if lte IE 7]><style>.main{display:none;} .support-note .note-ie{display:block;}</style><![endif]-->
     </head>
-    <body>
+    <body id="top-of-page" class="{{ page.format }}">
+
+    	{% include navigation.html %}
+
+		{% include masthead.html %}
+
         <div class="container">
 	
 			<div class="main">				
@@ -388,5 +380,9 @@ layout: gallery
 			});
 
 		</script>	
+
+		{% include footer.html %}
+		{% include footer_scripts.html %}
+
 	</body>
 </html>
