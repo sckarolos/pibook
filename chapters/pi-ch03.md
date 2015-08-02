@@ -167,7 +167,7 @@ WIMP: Η επιφάνεια εργασίας σε συνδυασμό με τις
 
 Ενα σημαντικό μάθημα που μας δίνει η ιστορία του iPod είναι πως τα σύγχρονα διαδραστικά συστήματα δεν στέκονται από μόνα τους αλλά λειτουργούν σε ένα οικοσύστημα συσκευών και εφαρμογών. Ενα ακόμη μάθημα είναι πως η εισαγωγή της καινοτομίας πρέπει να γίνει τόσο σταδιακά που να είναι διαφανής για τον τελικό χρήστη. Οταν οι πρώτοι χρήστες του iPod έβαζαν το iTunes θέλαν απλά να οργανώσουν καλύτερα την μουσική τους, ήταν ένα πρόβλημα που ήδη είχαν στον επιτραπέζιο υπολογιστή. Καθώς απέκτησαν οικειότητα με το iTunes το είδαν να μεταμορφώνεται σε ένα πολυεργαλείο για όλες τις κινητές συσκευές τους.
 
-<p data-height="268" data-theme-id="17517" data-slug-hash="ZGVrjJ" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='http://codepen.io/sckarolos/pen/ZGVrjJ/'>ZGVrjJ</a> by sckarolos (<a href='http://codepen.io/sckarolos'>@sckarolos</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<p data-height="368" data-theme-id="17517" data-slug-hash="ZGVrjJ" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='http://codepen.io/sckarolos/pen/ZGVrjJ/'>ZGVrjJ</a> by sckarolos (<a href='http://codepen.io/sckarolos'>@sckarolos</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
 # Σχετική βιβλιογραφία
