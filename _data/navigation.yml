@@ -39,6 +39,13 @@
 - title: "ΠΟΛΥΜΕΣΑ"
   url: "/gallery/"
   side: left
+  dropdown:
+  - title: "ΠΑΡΑΔΕΙΓΜΑΤΑ"
+    url: "/preface/"
+  - title: "GALLERY"
+    url: "/intro/"
+  - title: "TIMELINES"
+    url: "/definition/"
 
 - title: Blog
   url: "/blog/"
