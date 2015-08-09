@@ -37,7 +37,7 @@
     url: "/download/pi.epub"
 
 - title: "ΠΟΛΥΜΕΣΑ"
-  url: "/gallery/"
+  url: ""
   side: left
   dropdown:
   - title: "ΠΑΡΑΔΕΙΓΜΑΤΑ"
