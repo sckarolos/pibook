@@ -11,6 +11,6 @@ show_meta: false
 Σε αυτό το τμήμα παραθέτουμε συγκεντρωτικά το φωτογραφικό υλικό όπως αυτό παρουσιάζεται στα επιμέρους κεφάλαια του βιβλίου.
 
 
-{% include_relative index.html %}
+{% include_relative gallery.html %}
 
 {% include license.html %}
