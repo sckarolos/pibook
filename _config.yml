@@ -57,13 +57,6 @@ excerpt_separator: "\n\n"
 exclude: []
 include: ['.htaccess']
 
-# add gallery example
-gallery_thumbs:
-    - 150x150
-    - 200 by 200
-    - 100 50
-    - 50basicallyanything20
-
 
 # The language setting is used in /includes/header.html for html-settings
 language: "en"
