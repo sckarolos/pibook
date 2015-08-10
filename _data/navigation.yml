@@ -41,11 +41,11 @@
   side: left
   dropdown:
   - title: "ΠΑΡΑΔΕΙΓΜΑΤΑ"
-    url: "/preface/"
+    url: "/examples/"
   - title: "GALLERY"
-    url: "/intro/"
+    url: "/galleries/"
   - title: "TIMELINES"
-    url: "/definition/"
+    url: "/timelines/"
 
 - title: Blog
   url: "/blog/"
