@@ -2,7 +2,7 @@
 layout: page
 header:
    image_fullwidth: ""
-permalink: "/examples/"
+permalink: "/ΠΑΡΑΔΕΙΓΜΑΤΑ/"
 show_meta: false
 ---
 
