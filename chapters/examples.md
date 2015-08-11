@@ -32,5 +32,42 @@ show_meta: false
 <p data-height="300" data-theme-id="17517" data-slug-hash="WvmOXo" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='http://codepen.io/sckarolos/pen/WvmOXo/'>google maps user's Geolocation</a> by sckarolos (<a href='http://codepen.io/sckarolos'>@sckarolos</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
+### Παράδειγμα Διαδραστικού παιχνιδιού 
+
+Μετακίνηση αντικειμένου μέσω πληκτρολογίου (html canvas)
+
+<p data-height="257" data-theme-id="17517" data-slug-hash="dorEYW" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='http://codepen.io/sckarolos/pen/dorEYW/'>html canvas game</a> by sckarolos (<a href='http://codepen.io/sckarolos'>@sckarolos</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+
+### Παράδειγμα Εισόδου χρησιμοποιώντας για είσοδο το ποντίκι
+
+Ζωγραφική με το ποντίκι (html canvas)
+
+<p data-height="257" data-theme-id="17517" data-slug-hash="MwxdgM" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='http://codepen.io/sckarolos/pen/MwxdgM/'>html canvas draw</a> by sckarolos (<a href='http://codepen.io/sckarolos'>@sckarolos</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+
+### Παράδειγμα Μενού 1
+
+Διαδραστικό παράδειγμα dropdown μενού
+
+<p data-height="257" data-theme-id="17517" data-slug-hash="dorrVa" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='http://codepen.io/sckarolos/pen/dorrVa/'>Simple Dropdown menu</a> by sckarolos (<a href='http://codepen.io/sckarolos'>@sckarolos</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+
+### Παράδειγμα Μενού 2
+
+Διαδραστικό παράδειγμα responsive μενού σε One page template χρησιμοποιώντας Τwitter Βootstrap 3.0 
+
+<p data-height="257" data-theme-id="17517" data-slug-hash="rVRgEy" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='http://codepen.io/sckarolos/pen/rVRgEy/'>scroll to template responsive</a> by sckarolos (<a href='http://codepen.io/sckarolos'>@sckarolos</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+
+### Παράδειγμα διαδραστικού γραφήματος
+
+Διαδραστικό παράδειγμα γραφήματος χρησιμοποιώντας τη βιβλιοθήκη dimple.js
+
+<p data-height="257" data-theme-id="17517" data-slug-hash="pJYmOJ" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='http://codepen.io/sckarolos/pen/pJYmOJ/'>d3 bar chart example</a> by sckarolos (<a href='http://codepen.io/sckarolos'>@sckarolos</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+
+
+
 
 {% include license.html %}
