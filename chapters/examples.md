@@ -34,14 +34,14 @@ show_meta: false
 
 ### Παράδειγμα Διαδραστικού παιχνιδιού 
 
-Μετακίνηση αντικειμένου μέσω πληκτρολογίου (html canvas)
+Μετακίνηση αντικειμένου μέσω πληκτρολογίου (html Canvas)
 
 <p data-height="300" data-theme-id="17517" data-slug-hash="dorEYW" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='http://codepen.io/sckarolos/pen/dorEYW/'>html canvas game</a> by sckarolos (<a href='http://codepen.io/sckarolos'>@sckarolos</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
-### Παράδειγμα Εισόδου χρησιμοποιώντας για είσοδο το ποντίκι
+### Παράδειγμα Εισόδου χρησιμοποιώντας  το ποντίκι
 
-Ζωγραφική με το ποντίκι (html canvas)
+html Canvas
 
 <p data-height="300" data-theme-id="17517" data-slug-hash="MwxdgM" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='http://codepen.io/sckarolos/pen/MwxdgM/'>html canvas draw</a> by sckarolos (<a href='http://codepen.io/sckarolos'>@sckarolos</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
