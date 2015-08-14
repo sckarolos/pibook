@@ -8,4 +8,7 @@ show_meta: false
 
 {% include_relative pi-ch03.md %}
 
+{% include image.html %}
+
 {% include license.html %}
+
