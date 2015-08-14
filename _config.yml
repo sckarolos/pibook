@@ -205,3 +205,23 @@ sass:
 # used in _includes/footer_scripts.html
 
 google_analytics_tracking_id: UA-62275846-1
+
+# Sample Jekyll Image Tag settings
+
+name: A Jekyll blog
+pygments: true
+
+image:
+  source: assets/images/_fullsize
+  output: generated
+  presets:
+    # Proportional preset
+    users:
+      attr:
+        class: user-portrait
+        itemprop: image
+      width: 350
+    # Scaled and cropped preset
+    half:
+      width: 400
+      height: 400
