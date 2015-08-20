@@ -30,7 +30,7 @@ html Canvas
 
 Άσκηση: 
 
-<p data-height="257" data-theme-id="17517" data-slug-hash="VLJWMQ" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='http://codepen.io/sckarolos/pen/VLJWMQ/'>image filter 1</a> by sckarolos (<a href='http://codepen.io/sckarolos'>@sckarolos</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<p data-height="300" data-theme-id="17517" data-slug-hash="VLJWMQ" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='http://codepen.io/sckarolos/pen/VLJWMQ/'>image filter 1</a> by sckarolos (<a href='http://codepen.io/sckarolos'>@sckarolos</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
 Άσκηση: 
@@ -69,7 +69,7 @@ html Canvas
 
 Διαδραστικό παράδειγμα responsive μενού σε One page template χρησιμοποιώντας Τwitter Βootstrap 3.0 
 
-<p data-height="257" data-theme-id="17517" data-slug-hash="eNwepm" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='http://codepen.io/sckarolos/pen/eNwepm/'>Circular Navigation example</a> by sckarolos (<a href='http://codepen.io/sckarolos'>@sckarolos</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<p data-height="300" data-theme-id="17517" data-slug-hash="eNwepm" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='http://codepen.io/sckarolos/pen/eNwepm/'>Circular Navigation example</a> by sckarolos (<a href='http://codepen.io/sckarolos'>@sckarolos</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
 Άσκηση: 
@@ -80,7 +80,7 @@ html Canvas
 
 τεστ φιλτρου
 
-<p data-height="257" data-theme-id="17517" data-slug-hash="VLJWMQ" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='http://codepen.io/sckarolos/pen/VLJWMQ/'>image filter 1</a> by sckarolos (<a href='http://codepen.io/sckarolos'>@sckarolos</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<p data-height="300" data-theme-id="17517" data-slug-hash="VLJWMQ" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='http://codepen.io/sckarolos/pen/VLJWMQ/'>image filter 1</a> by sckarolos (<a href='http://codepen.io/sckarolos'>@sckarolos</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
 Άσκηση: εξτρα φιλτρα
@@ -89,7 +89,7 @@ html Canvas
 
 τεστ calculator
 
-<p data-height="257" data-theme-id="17517" data-slug-hash="vOqewJ" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='http://codepen.io/sckarolos/pen/vOqewJ/'>Apple's Calculator fork</a> by sckarolos (<a href='http://codepen.io/sckarolos'>@sckarolos</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<p data-height="300" data-theme-id="17517" data-slug-hash="vOqewJ" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='http://codepen.io/sckarolos/pen/vOqewJ/'>Apple's Calculator fork</a> by sckarolos (<a href='http://codepen.io/sckarolos'>@sckarolos</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
 Άσκηση: calculator
