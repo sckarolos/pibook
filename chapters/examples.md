@@ -12,7 +12,7 @@ show_meta: false
 
 # Κεφάλαιο: Αρχέτυπα
 
-### Παράδειγμα Εισόδου μέσω της συσκευής Ποντίκι
+### Παράδειγμα εισόδου μέσω της συσκευής Ποντίκι
 
 Παράδειγμα διαδραστικού κώδικα που χρησιμοποιεί το ποντίκι ως συσκευή εισόδου και δίνει ως έξοδο το ανάλογο αποτέλεσμα στην οθόνη. Για να αλλάξει η συσκευή εισόδου πρέπει ο χρήστης να κυλίσει δεξιά ή αριστερά το πορτοκαλί "κουμπί ώστε να αλλάξει η τιμή εισόδου".
 
@@ -21,7 +21,7 @@ show_meta: false
 
 Άσκηση: 
 
-### Παράδειγμα Εισόδου χρησιμοποιώντας  το ποντίκι
+### Παράδειγμα εισόδου χρησιμοποιώντας  το ποντίκι
 
 html Canvas
 
@@ -30,7 +30,16 @@ html Canvas
 
 Άσκηση: 
 
-### Παράδειγμα Διαδραστικού παιχνιδιού 
+### Παράδειγμα αναπαραγωγής βίντεο χρησιμοποιώντας το ποντίκι
+
+html Canvas
+
+<p data-height="257" data-theme-id="17517" data-slug-hash="yNWZwm" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='http://codepen.io/sckarolos/pen/yNWZwm/'>video example</a> by sckarolos (<a href='http://codepen.io/sckarolos'>@sckarolos</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+
+Άσκηση: 
+
+### Παράδειγμα διαδραστικού παιχνιδιού 
 
 Μετακίνηση αντικειμένου μέσω πληκτρολογίου (html Canvas)
 
@@ -55,14 +64,14 @@ html Canvas
 
 Διαδραστικό παράδειγμα responsive μενού σε One page template χρησιμοποιώντας Τwitter Βootstrap 3.0 
 
-<p data-height="300" data-theme-id="17517" data-slug-hash="rVRgEy" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='http://codepen.io/sckarolos/pen/rVRgEy/'>scroll to template responsive</a> by sckarolos (<a href='http://codepen.io/sckarolos'>@sckarolos</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<p data-height="257" data-theme-id="17517" data-slug-hash="yNdPrJ" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='http://codepen.io/sckarolos/pen/yNdPrJ/'>responsive menu</a> by sckarolos (<a href='http://codepen.io/sckarolos'>@sckarolos</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
 Άσκηση: 
 
 ### Παράδειγμα Μενού 3
 
-Διαδραστικό παράδειγμα responsive μενού σε One page template χρησιμοποιώντας Τwitter Βootstrap 3.0 
+Διαδραστικό παράδειγμα κυκλικού μενού 
 
 <p data-height="300" data-theme-id="17517" data-slug-hash="eNwepm" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='http://codepen.io/sckarolos/pen/eNwepm/'>Circular Navigation example</a> by sckarolos (<a href='http://codepen.io/sckarolos'>@sckarolos</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
