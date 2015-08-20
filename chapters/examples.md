@@ -30,11 +30,6 @@ html Canvas
 
 Άσκηση: 
 
-<p data-height="300" data-theme-id="17517" data-slug-hash="VLJWMQ" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='http://codepen.io/sckarolos/pen/VLJWMQ/'>image filter 1</a> by sckarolos (<a href='http://codepen.io/sckarolos'>@sckarolos</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
-<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
-
-Άσκηση: 
-
 ### Παράδειγμα Διαδραστικού παιχνιδιού 
 
 Μετακίνηση αντικειμένου μέσω πληκτρολογίου (html Canvas)
