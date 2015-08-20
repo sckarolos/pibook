@@ -78,6 +78,15 @@ html Canvas
 
 Άσκηση: 
 
+### Παράδειγμα Μενού 4
+
+Διαδραστικό παράδειγμα μενού
+
+<p data-height="257" data-theme-id="17517" data-slug-hash="yNWZwm" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='http://codepen.io/sckarolos/pen/yNWZwm/'>video example</a> by sckarolos (<a href='http://codepen.io/sckarolos'>@sckarolos</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+
+Άσκηση:
+
 # Κεφάλαιο: Μοντέλα
 
 ### Παράδειγμα εφαρμογής φίλτρου σε εικόνα 
