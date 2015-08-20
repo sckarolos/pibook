@@ -12,7 +12,6 @@ show_meta: false
 
 # Κεφάλαιο: Αρχέτυπα
 
-
 ### Παράδειγμα Εισόδου μέσω της συσκευής Ποντίκι
 
 Παράδειγμα διαδραστικού κώδικα που χρησιμοποιεί το ποντίκι ως συσκευή εισόδου και δίνει ως έξοδο το ανάλογο αποτέλεσμα στην οθόνη. Για να αλλάξει η συσκευή εισόδου πρέπει ο χρήστης να κυλίσει δεξιά ή αριστερά το πορτοκαλί "κουμπί ώστε να αλλάξει η τιμή εισόδου".
@@ -21,7 +20,6 @@ show_meta: false
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
 Άσκηση: 
-
 
 ### Παράδειγμα Εισόδου χρησιμοποιώντας  το ποντίκι
 
@@ -32,6 +30,19 @@ html Canvas
 
 Άσκηση: 
 
+<p data-height="257" data-theme-id="17517" data-slug-hash="VLJWMQ" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='http://codepen.io/sckarolos/pen/VLJWMQ/'>image filter 1</a> by sckarolos (<a href='http://codepen.io/sckarolos'>@sckarolos</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+
+Άσκηση: 
+
+### Παράδειγμα Διαδραστικού παιχνιδιού 
+
+Μετακίνηση αντικειμένου μέσω πληκτρολογίου (html Canvas)
+
+<p data-height="300" data-theme-id="17517" data-slug-hash="dorEYW" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='http://codepen.io/sckarolos/pen/dorEYW/'>html canvas game</a> by sckarolos (<a href='http://codepen.io/sckarolos'>@sckarolos</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+
+Άσκηση: 
 
 # Κεφάλαιο: Εργαλεία (Τεχνολογίες Υλικού και Λογισμικού Διάδρασης σε κλίμακα)
 
@@ -54,9 +65,34 @@ html Canvas
 
 Άσκηση: 
 
+### Παράδειγμα Μενού 3
+
+Διαδραστικό παράδειγμα responsive μενού σε One page template χρησιμοποιώντας Τwitter Βootstrap 3.0 
+
+<p data-height="257" data-theme-id="17517" data-slug-hash="eNwepm" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='http://codepen.io/sckarolos/pen/eNwepm/'>Circular Navigation example</a> by sckarolos (<a href='http://codepen.io/sckarolos'>@sckarolos</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+
+Άσκηση: 
 
 # Κεφάλαιο: Μοντέλα
 
+### Παράδειγμα εφαρμογής φίλτρου σε εικόνα 
+
+τεστ φιλτρου
+
+<p data-height="257" data-theme-id="17517" data-slug-hash="VLJWMQ" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='http://codepen.io/sckarolos/pen/VLJWMQ/'>image filter 1</a> by sckarolos (<a href='http://codepen.io/sckarolos'>@sckarolos</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+
+Άσκηση: εξτρα φιλτρα
+
+### Παράδειγμα εφαρμογής calculator
+
+τεστ calculator
+
+<p data-height="257" data-theme-id="17517" data-slug-hash="vOqewJ" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='http://codepen.io/sckarolos/pen/vOqewJ/'>Apple's Calculator fork</a> by sckarolos (<a href='http://codepen.io/sckarolos'>@sckarolos</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+
+Άσκηση: calculator
 
 ### Παράδειγμα Διαδραστικού χάρτη 
 
@@ -91,14 +127,7 @@ html Canvas
 # Κεφάλαιο: Σύνθεση
 
 
-### Παράδειγμα Διαδραστικού παιχνιδιού 
 
-Μετακίνηση αντικειμένου μέσω πληκτρολογίου (html Canvas)
-
-<p data-height="300" data-theme-id="17517" data-slug-hash="dorEYW" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='http://codepen.io/sckarolos/pen/dorEYW/'>html canvas game</a> by sckarolos (<a href='http://codepen.io/sckarolos'>@sckarolos</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
-<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
-
-Άσκηση: 
 
 
 {% include license.html %}
