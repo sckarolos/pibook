@@ -42,10 +42,7 @@
   dropdown:
   - title: "ΠΑΡΑΔΕΙΓΜΑΤΑ"
     url: "/examples/"
-  - title: "GALLERY"
-    url: "/galleries/"
-  - title: "TIMELINES"
-    url: "/timelines/"
+
 
 - title: Blog
   url: "/blog/"
