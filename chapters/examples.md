@@ -14,30 +14,30 @@ show_meta: false
 
 ### Παράδειγμα εισόδου χρησιμοποιώντας  το ποντίκι
 
-html Canvas
+Παράδειγμα διαδραστικού κώδικα που χρησιμοποιεί το ποντίκι ως συσκευή εισόδου. Ο χρήστης μπορεί να χρησιμοποιήσει το ποντίκι για να σχεδιάσει στη λευκή επιφάνεια (canvas). 
 
 <p data-height="300" data-theme-id="17517" data-slug-hash="MwxdgM" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='http://codepen.io/sckarolos/pen/MwxdgM/'>html canvas draw</a> by sckarolos (<a href='http://codepen.io/sckarolos'>@sckarolos</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
-Άσκηση: 
+Άσκηση: Τρποποποιήστε το παράδειγμα έτσι ώστε όταν δίνεται ως είσοδος ένα συγκεκριμένο πλήκτρο από το πληκτρολόγιο (π.χ. Space), να εκτελείται η λειτουργία reset / clear στo canvas (επαναφορά στη λευκή επιφάνεια). 
 
 ### Παράδειγμα εισόδου μέσω της συσκευής Ποντίκι
 
-Παράδειγμα διαδραστικού κώδικα που χρησιμοποιεί το ποντίκι ως συσκευή εισόδου και δίνει ως έξοδο το ανάλογο αποτέλεσμα στην οθόνη. Για να αλλάξει η συσκευή εισόδου πρέπει ο χρήστης να κυλίσει δεξιά ή αριστερά το πορτοκαλί "κουμπί ώστε να αλλάξει η τιμή εισόδου".
+Παράδειγμα διαδραστικού κώδικα που χρησιμοποιεί το ποντίκι ως συσκευή εισόδου και δίνει ως έξοδο το ανάλογο αποτέλεσμα στην οθόνη. Για να αλλάξει η τιμή εισόδου πρέπει ο χρήστης να κυλίσει δεξιά ή αριστερά το πορτοκαλί "κουμπί ώστε να αλλάξει η τιμή εισόδου".
 
 <p data-height="300" data-theme-id="17517" data-slug-hash="ZGVrjJ" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='http://codepen.io/sckarolos/pen/ZGVrjJ/'>ZGVrjJ</a> by sckarolos (<a href='http://codepen.io/sckarolos'>@sckarolos</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
-Άσκηση: 
+Άσκηση: Αλλάξτε το χρώμα του αριθμού εξόδου, κάθε φορά που κινείται η μπάρα εισόδου. 
 
 ### Παράδειγμα αναπαραγωγής βίντεο χρησιμοποιώντας το ποντίκι
 
-html Canvas
+Παράδειγμα διαδραστικού κώδικα που χρησιμοποιεί το ποντίκι ως συσκευή εισόδου. Το βίντεο χρησιμοποιεί για την έναρξη και την παύση του το σύστημα αναπαραγωγής της υπηρεσίας Youtube 
 
 <p data-height="257" data-theme-id="17517" data-slug-hash="yNWZwm" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='http://codepen.io/sckarolos/pen/yNWZwm/'>video example</a> by sckarolos (<a href='http://codepen.io/sckarolos'>@sckarolos</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
-Άσκηση: 
+Άσκηση: Δημιουργείστε δικό σας σύστημα αναπαρωγής με κουμπιά Start (εκκίνηση) και Pause (Διακοπή) τα οποία να εκτελούν τις αντίστοιχες λειτουργίες στο υπάρχον Βίντεο.
 
 ### Παράδειγμα διαδραστικού παιχνιδιού 
 
@@ -46,7 +46,7 @@ html Canvas
 <p data-height="300" data-theme-id="17517" data-slug-hash="dorEYW" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='http://codepen.io/sckarolos/pen/dorEYW/'>html canvas game</a> by sckarolos (<a href='http://codepen.io/sckarolos'>@sckarolos</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
-Άσκηση: 
+Άσκηση: 1: Τροποποιήστε το παράδειγμα έτσι ώστε όταν το αυτοκίνητο κινείται όπισθεν να έχει μικρότερη (τη μισή) ταχύτητα από το όταν κινείται έμπροσθεν. 2: Δημιουργείστε περιμετρικά όρια  έτσι ώστε το αυτοκίνητο να μη βγαίνει ποτέ έξω από την πίστα.
 
 # Κεφάλαιο: Εργαλεία (Τεχνολογίες Υλικού και Λογισμικού Διάδρασης σε κλίμακα)
 
