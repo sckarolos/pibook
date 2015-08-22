@@ -70,7 +70,7 @@ show_meta: false
 
 Άσκηση 1: Δημιουργείστε ένα επιπλέον στοιχείο στο μενού και κατόπιν φτιάξτε μια αντίστοιχη ενότητα/κεφάλαιο στο τέλος της σελίδας. Εφαρμόστε την λειτουργία scroll-to συνδέοντας το μενού με την καινούρια ενότητα/κεφάλαιο.
 
-Άσκηση 2: Δημιουργείστε κουμπί στο τέλος της σελίδας. Κάθε φορά που το επιλέγει ο χρήστης να εκτελείται μεταφορά (scroll) στην πρώτη/αρχική ενότητα/κεφάλαιο 
+Άσκηση 2: Δημιουργείστε κουμπί στο τέλος της σελίδας. Κάθε φορά που το επιλέγει ο χρήστης να εκτελείται μεταφορά (scroll) στην πρώτη/αρχική ενότητα/κεφάλαιο.
 
 ### Παράδειγμα Μενού 3
 
@@ -94,51 +94,58 @@ show_meta: false
 
 ### Παράδειγμα εφαρμογής φίλτρου σε εικόνα 
 
-τεστ φιλτρου
+Παράδειγμα διαδραστικού κώδικα στον οποίο όταν εκτελείται από το χρήστη η λειτουργία hover (κίνηση του ποντικιού πάνω από την εικόνα στο συγκεκριμένο παράδειγμα) εφαρμόζεται το φίλτρο του αποχρωματισμού της εικόνας. 
 
 <p data-height="300" data-theme-id="17517" data-slug-hash="VLJWMQ" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='http://codepen.io/sckarolos/pen/VLJWMQ/'>image filter 1</a> by sckarolos (<a href='http://codepen.io/sckarolos'>@sckarolos</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
-Άσκηση: εξτρα φιλτρα
+Άσκηση: Τροποποιήστε το παράδειγμα χρησιμοποιώντας φίλτρα εικόνας και συνδυασμούς αυτών. Παραδείγματα φίλτρων βρίσκονται ως σχόλια στην ενότητα με τον CSS κώδικα του παραδείγματος.
 
-### Παράδειγμα εφαρμογής calculator
+### Παράδειγμα αριθμομηχανής
 
-τεστ calculator
+Παράδειγμα οπτικής και λειτουργικής εξομοίωσης αριθμομηχανής. 
 
 <p data-height="300" data-theme-id="17517" data-slug-hash="vOqewJ" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='http://codepen.io/sckarolos/pen/vOqewJ/'>Apple's Calculator fork</a> by sckarolos (<a href='http://codepen.io/sckarolos'>@sckarolos</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
-Άσκηση: calculator
+Άσκηση 1: Τροποποιήστε το παράδειγμα έτσι ώστε κάθε φορά που επιλέγεται το σύμβολο/τελεστής "=" να τυπώνεται το αποτέλεσμα σε όποιο μέρος της σελίδας επιθυμείτε. Το επόμενο αποτέλεσμα πρέπει να τυπώνεται σε νέα σειρά.
 
 ### Παράδειγμα Διαδραστικού χάρτη 
 
-Έυρεση τοποθεσίας μέσω της χρήσης φόρμας εισόδου και του Google Maps API.
-
-<p data-height="300" data-theme-id="17517" data-slug-hash="XbGgZq" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='http://codepen.io/sckarolos/pen/XbGgZq/'>google maps api place search</a> by sckarolos (<a href='http://codepen.io/sckarolos'>@sckarolos</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
-<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
-
-Άσκηση: 
-
-
-### Παράδειγμα Διαδραστικού χάρτη 
-
-Έυρεση τοποθεσίας χρήστη χρησιμοποιώντας το Google Maps API.
+Έυρεση τοποθεσίας χρήστη χρησιμοποιώντας το Google Maps API (https://developers.google.com/maps/?hl=en).
 
 <p data-height="300" data-theme-id="17517" data-slug-hash="WvmOXo" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='http://codepen.io/sckarolos/pen/WvmOXo/'>google maps user's Geolocation</a> by sckarolos (<a href='http://codepen.io/sckarolos'>@sckarolos</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
-Άσκηση: 
+Άσκηση: Τροποποιήστε το παράδειγμα δημιουργώντας/οπτικοποιώντας χρωμματική περίμετρο γύρω από το σημείο εντοπισμού.
 
+### Παράδειγμα Διαδραστικού χάρτη 
+
+Εύρεση τοποθεσίας μέσω της χρήσης φόρμας εισόδου και του Google Maps API (https://developers.google.com/maps/?hl=en).
+
+<p data-height="300" data-theme-id="17517" data-slug-hash="XbGgZq" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='http://codepen.io/sckarolos/pen/XbGgZq/'>google maps api place search</a> by sckarolos (<a href='http://codepen.io/sckarolos'>@sckarolos</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+
+Άσκηση 1: Κάθε φορά που δίνεται ως είσοδος μια τοποθεσία αλλάζει το κέντρο του χάρτη. Τροποποιήστε το παράδειγμα έτσι ώστε κάθε φορά που αλλάζει το κέντρο του χάρτη, να φαίνεται μεγαλύτερο κομμάτι της εκάστοτε περιοχής (μείωση της τιμής zoom)
+
+Άσκηση 2: Τροποποιήστε του προεπιλεγμένου (default) marker που χρησιμοποιείται για την εύρεση του σημείου που αναζητήσατε με ένα marker της επιλογής σας.
+
+Άσκηση 3: Δοκιμάστε παραδείγματα απο το documentation του Google Maps API (https://developers.google.com/maps/?hl=en).
 
 ### Παράδειγμα διαδραστικού γραφήματος
 
-Διαδραστικό παράδειγμα γραφήματος χρησιμοποιώντας τη βιβλιοθήκη dimple.js
+Διαδραστικό παράδειγμα γραφήματος χρησιμοποιώντας τη βιβλιοθήκη d3.js/dimple.js (http://dimplejs.org/)
 
 <p data-height="300" data-theme-id="17517" data-slug-hash="pJYmOJ" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='http://codepen.io/sckarolos/pen/pJYmOJ/'>d3 bar chart example</a> by sckarolos (<a href='http://codepen.io/sckarolos'>@sckarolos</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
-Άσκηση: 
+Άσκηση 1: Δημιουργείστε ένα αρχείο της επιλογής σας (πχ.: .csv,.tsv,.json κτλ) και προσθέστε στην κατάλληλη μορφή τα δεδομένα που οπτικοποιεί το παράδειγμα (πίνακας data στην ενότητα Javascript).
 
+Άσκηση 2: Ανεβάστε το αρχείο σε μια υπηρεσία που επιτρέπει τη δωρεάν αποθήκευση αρχείων (π.χ.: Github, Dropbox).  
+
+Άσκηση 3: Τροποποιήστε το παράδειγμα κατάλληλα ώστε να γίνεται φόρτωση και προσπέλαση των δεδομένων από το αρχείο που δημιουργήσατε.
+
+Άσκηση 4: Προσθέστε περισσότερα δεδομένα στο αρχείο και δοκιμάστε παραδείγματα απο το documentation της βιβλιοθήκης (http://dimplejs.org/).
 
 # Κεφάλαιο: Σύνθεση
 
