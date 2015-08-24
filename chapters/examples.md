@@ -101,12 +101,21 @@ show_meta: false
 
 ### Παράδειγμα Μενού 5
 
+Παράδειγμα εναλλακτικού μενού χωρίς τη χρήση Javascript. Για τη δημιουργία της διάδρασης έχει χρησιμοποιηθεί ο CSS preprocessor SCSS.
+
+<p data-height="350" data-theme-id="17517" data-slug-hash="vOommL" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='http://codepen.io/sckarolos/pen/vOommL/'>Pure CSS Circle Menu</a> by sckarolos (<a href='http://codepen.io/sckarolos'>@sckarolos</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+
+Άσκηση: Ενσωματώστε το παραπάνω μενού στο παράδειγμα "Παράδειγμα Μενού 2" αφού πρώτα αφαιρέσετε το υπάρχον μενού. Στη συνέχεια ενσωματώστε τις προϋπάρχουσες λειτου ργίες στο καινούριο μενού. Προεραιτικά χρησιμοποιήστε στο μενού τοποθέτηση fixed (position:fixed;) ώστε να φαίνεται πάντα κατά την κύλιση ή τη μεταφορά στις διάφορες ενότητες.
+
+### Παράδειγμα Μενού 6
+
 Παράδειγμα εναλλακτικού μενού χωρίς ενσωματωμένες λειτουργίες.
 
 <p data-height="350" data-theme-id="17517" data-slug-hash="zGVpNR" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='http://codepen.io/sckarolos/pen/zGVpNR/'>tablet menu</a> by sckarolos (<a href='http://codepen.io/sckarolos'>@sckarolos</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
-Άσκηση: Ενσωματώστε το παραπάνω μενού στο παράδειγμα "Παράδειγμα Μενού 2" αφού πρώτα αφαιρέσετε το υπάρχον μενού. Στη συνέχεια ενσωματώστε τις προϋπάρχουσες λειτου ργίες στο καινούριο μενού. Προεραιτικά χρησιμοποιήστε στο μενού τοποθέτηση fixed (position:fixed;) ώστε να φαίνεται πάντα κατά την κύλιση ή τη μεταφορά στις διάφορες ενότητες.
+Άσκηση: Τροποποιήστε το παράδειγμα ενσωματώνοντας στο υπάρχον μενού περιεχόμενο της επιλογής σας. Αντί για CSS, χρησιμοποιήστε τον Preprocessor SCSS.
 
 # Κεφάλαιο: Μοντέλα
 
