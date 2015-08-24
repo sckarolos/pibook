@@ -72,6 +72,15 @@ show_meta: false
 
 ### Παράδειγμα Μενού 2
 
+Παράδειγμα slide μενού χωρίς ενσωματωμένες λειτουργίες.
+
+<p data-height="350" data-theme-id="17517" data-slug-hash="LVwxER" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='http://codepen.io/sckarolos/pen/LVwxER/'>Slide Menu</a> by sckarolos (<a href='http://codepen.io/sckarolos'>@sckarolos</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+
+Άσκηση: Τροποποιήστε το παράδειγμα αφαιρώντας τον κώδικα που δημιουργεί το μενού στη δεξιά πλευρά της σελίδας. Στη συνέχεια, πειραματιστείτε με τον preprocessor SCSS παρατηρώντας τις ομοιότητες και τις διαφορές με το κανονικό CSS.
+
+### Παράδειγμα Μενού 3
+
 Διαδραστικό παράδειγμα responsive μενού σε One page template χρησιμοποιώντας τη βιβιοθήκη Τwitter Βootstrap 3.0 . Στο παράδειγμα εμφανίζεται το μενού έπειτα από κύλιση του ποντικιού και υποστηρίζεται η λειτουργία αυτόματης μεταφοράς (scroll) στην ενότητα/κεφάλαιο που θα επιλέξει ο χρήστης μέσω του μενού. 
 
 <p data-height="350" data-theme-id="17517" data-slug-hash="yNdPrJ" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='http://codepen.io/sckarolos/pen/yNdPrJ/'>responsive menu</a> by sckarolos (<a href='http://codepen.io/sckarolos'>@sckarolos</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
@@ -81,7 +90,7 @@ show_meta: false
 
 Άσκηση 2: Δημιουργείστε κουμπί στο τέλος της σελίδας. Κάθε φορά που το επιλέγει ο χρήστης να εκτελείται μεταφορά (scroll) στην πρώτη/αρχική ενότητα/κεφάλαιο.
 
-### Παράδειγμα Μενού 3
+### Παράδειγμα Μενού 4
 
 Διαδραστικό παράδειγμα πολύπλοκου κυκλικού μενού. Με την επιλογή του κουμπιού "open" από το χρήστη, εμφανίζονται μια σειρά από πιθανές επιλογές.
 
@@ -90,7 +99,7 @@ show_meta: false
 
 Άσκηση: Τροποποιήστε το μενού κατάλληλα ώστε κατά την επιλογή του κουμπιού open να εμφανίζονται 4 και όχι 12 επιλογές.
 
-### Παράδειγμα Μενού 4
+### Παράδειγμα Μενού 5
 
 Παράδειγμα εναλλακτικού μενού χωρίς ενσωματωμένες λειτουργίες.
 
@@ -98,15 +107,6 @@ show_meta: false
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
 Άσκηση: Ενσωματώστε το παραπάνω μενού στο παράδειγμα "Παράδειγμα Μενού 2" αφού πρώτα αφαιρέσετε το υπάρχον μενού. Στη συνέχεια ενσωματώστε τις προϋπάρχουσες λειτου ργίες στο καινούριο μενού. Προεραιτικά χρησιμοποιήστε στο μενού τοποθέτηση fixed (position:fixed;) ώστε να φαίνεται πάντα κατά την κύλιση ή τη μεταφορά στις διάφορες ενότητες.
-
-### Παράδειγμα Μενού 5
-
-Παράδειγμα slide μενού χωρίς ενσωματωμένες λειτουργίες.
-
-<p data-height="350" data-theme-id="17517" data-slug-hash="LVwxER" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='http://codepen.io/sckarolos/pen/LVwxER/'>Slide Menu</a> by sckarolos (<a href='http://codepen.io/sckarolos'>@sckarolos</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
-<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
-
-Άσκηση: Τροποποιήστε το παράδειγμα αφαιρώντας τον κώδικα που δημιουργεί το μενού στη δεξιά πλευρά της σελίδας. Στη συνέχεια, πειραματιστείτε με τον preprocessor SCSS παρατηρώντας τις ομοιότητες και τις διαφορές με το κανονικό CSS.
 
 # Κεφάλαιο: Μοντέλα
 
