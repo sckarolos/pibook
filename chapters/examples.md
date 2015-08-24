@@ -38,11 +38,14 @@ show_meta: false
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
 Άσκηση: Δημιουργείστε δικό σας σύστημα αναπαραγωγής με κουμπιά Start (εκκίνηση) και Pause (Διακοπή) τα οποία να εκτελούν τις αντίστοιχες λειτουργίες στο υπάρχον Βίντεο. Για εκκίνηση του βίντεο μπορεί να χρησιμοποιηθεί το εξής παράδειγμα κώδικα Javascript:
+
 $(document).ready(function() {
+
   $('#yourNewDiv').on('click', function(ev) {
     $("#video")[0].src += "&autoplay=1";
     ev.preventDefault();
   });
+  
 });
 
 ### Παράδειγμα διαδραστικού παιχνιδιού 
