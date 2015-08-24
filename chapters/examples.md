@@ -37,7 +37,13 @@ show_meta: false
 <p data-height="350" data-theme-id="17517" data-slug-hash="yNWZwm" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='http://codepen.io/sckarolos/pen/yNWZwm/'>video example</a> by sckarolos (<a href='http://codepen.io/sckarolos'>@sckarolos</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
-Άσκηση: Δημιουργείστε δικό σας σύστημα αναπαραγωγής με κουμπιά Start (εκκίνηση) και Pause (Διακοπή) τα οποία να εκτελούν τις αντίστοιχες λειτουργίες στο υπάρχον Βίντεο.
+Άσκηση: Δημιουργείστε δικό σας σύστημα αναπαραγωγής με κουμπιά Start (εκκίνηση) και Pause (Διακοπή) τα οποία να εκτελούν τις αντίστοιχες λειτουργίες στο υπάρχον Βίντεο. Για εκκίνηση του βίντεο μπορεί να χρησιμοποιηθεί το εξής παράδειγμα κώδικα Javascript:
+$(document).ready(function() {
+  $('#yourNewDiv').on('click', function(ev) {
+    $("#video")[0].src += "&autoplay=1";
+    ev.preventDefault();
+  });
+});
 
 ### Παράδειγμα διαδραστικού παιχνιδιού 
 
