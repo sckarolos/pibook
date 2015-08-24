@@ -34,10 +34,10 @@ show_meta: false
 
 Παράδειγμα διαδραστικού κώδικα που χρησιμοποιεί το ποντίκι ως συσκευή εισόδου. Το βίντεο χρησιμοποιεί για την έναρξη και την παύση του το σύστημα αναπαραγωγής της υπηρεσίας Youtube 
 
-<p data-height="257" data-theme-id="17517" data-slug-hash="yNWZwm" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='http://codepen.io/sckarolos/pen/yNWZwm/'>video example</a> by sckarolos (<a href='http://codepen.io/sckarolos'>@sckarolos</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<p data-height="300" data-theme-id="17517" data-slug-hash="yNWZwm" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='http://codepen.io/sckarolos/pen/yNWZwm/'>video example</a> by sckarolos (<a href='http://codepen.io/sckarolos'>@sckarolos</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
-Άσκηση: Δημιουργείστε δικό σας σύστημα αναπαρωγής με κουμπιά Start (εκκίνηση) και Pause (Διακοπή) τα οποία να εκτελούν τις αντίστοιχες λειτουργίες στο υπάρχον Βίντεο.
+Άσκηση: Δημιουργείστε δικό σας σύστημα αναπαραγωγής με κουμπιά Start (εκκίνηση) και Pause (Διακοπή) τα οποία να εκτελούν τις αντίστοιχες λειτουργίες στο υπάρχον Βίντεο.
 
 ### Παράδειγμα διαδραστικού παιχνιδιού 
 
@@ -51,6 +51,15 @@ show_meta: false
 Άσκηση 2: Δημιουργείστε περιμετρικά όρια  έτσι ώστε το αυτοκίνητο να μη βγαίνει ποτέ έξω από την πίστα.
 
 # Κεφάλαιο: Εργαλεία 
+
+### Παράδειγμα CSS Media Queries
+
+Παράδειγμα κώδικα με σκοπό να γίνει κατανοητή η χρήση των CSS media queries. Αλλάζοντας το μέγεθος του παραθύρου του περιηγητή (browser) σας αλλάζει το χρώμα της επιφάνειας του παραδείγματος. 
+
+<p data-height="257" data-theme-id="17517" data-slug-hash="vOoyJG" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='http://codepen.io/sckarolos/pen/vOoyJG/'>media queries example</a> by sckarolos (<a href='http://codepen.io/sckarolos'>@sckarolos</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+
+Άσκηση: Πειραματιστείτε με το παράδειγμα προσθέτοντας περισσότερα CSS media queries και αλλάζοντας το χρώμα του παραθούρου. Στη συνέχεια δοκιμάστε να εφαρμόσετε CSS media queries στο μέγεθος της γραμματοσειράς ώστε να απεικονίζεται σωστά σε όλα τα μεγέθη παραθύρων.
 
 ### Παράδειγμα Μενού 1
 
@@ -89,6 +98,15 @@ show_meta: false
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
 Άσκηση: Ενσωματώστε το παραπάνω μενού στο παράδειγμα "Παράδειγμα Μενού 2" αφού πρώτα αφαιρέσετε το υπάρχον μενού. Στη συνέχεια ενσωματώστε τις προϋπάρχουσες λειτουργίες στο καινούριο μενού. Προεραιτικά χρησιμοποιήστε στο μενού τοποθέτηση fixed (position:fixed;) ώστε να φαίνεται πάντα κατά την κύλιση ή τη μεταφορά στις διάφορες ενότητες.
+
+### Παράδειγμα Μενού 5
+
+Παράδειγμα slide μενού χωρίς ενσωματωμένες λειτουργίες.
+
+<p data-height="300" data-theme-id="17517" data-slug-hash="LVwxER" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='http://codepen.io/sckarolos/pen/LVwxER/'>Slide Menu</a> by sckarolos (<a href='http://codepen.io/sckarolos'>@sckarolos</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+
+Άσκηση: Τροποποιήστε το παράδειγμα αφαιρώντας τον κώδικα που δημιουργεί το μενού στη δεξιά πλευρά της σελίδας. Στη συνέχεια, πειραματιστείτε με τον preprocessor SCSS παρατηρώντας τις ομοιότητες και τις διαφορές με το κανονικό CSS.
 
 # Κεφάλαιο: Μοντέλα
 
@@ -132,6 +150,17 @@ show_meta: false
 
 Άσκηση 3: Δοκιμάστε παραδείγματα απο το documentation του Google Maps API (https://developers.google.com/maps/?hl=en).
 
+# Κεφάλαιο: Σύνθεση
+
+### Παράδειγμα σύνθεσης διαδραστικών εικόνων
+
+Διαδραστικό παράδειγμα εικόνων χρησιμοποιώντας την τεχνική parallax. Στο συγκεκριμένο παράδειγμα η τεχνική αυτή δημιουργεί την αίσθηση του 3d περιβαλλντος. Ο χρήστης μπορεί να περιηγηθεί στη σύνθεση χρησιμοποιώντας το ποντίκι.
+
+<p data-height="300" data-theme-id="17517" data-slug-hash="yNmMLO" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='http://codepen.io/sckarolos/pen/yNmMLO/'>GTA 5 CSS3 Parallax</a> by sckarolos (<a href='http://codepen.io/sckarolos'>@sckarolos</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+
+Άσκηση 1: Τροποποιήστε το παράδειγμα αλλάζοντας τις υπάρχουσες εικόνες, δημιουργώντας τη δική σας θεματική σύνθεση. 
+
 ### Παράδειγμα διαδραστικού γραφήματος
 
 Διαδραστικό παράδειγμα γραφήματος χρησιμοποιώντας τη βιβλιοθήκη d3.js/dimple.js (http://dimplejs.org/)
@@ -146,10 +175,6 @@ show_meta: false
 Άσκηση 3: Τροποποιήστε το παράδειγμα κατάλληλα ώστε να γίνεται φόρτωση και προσπέλαση των δεδομένων από το αρχείο που δημιουργήσατε.
 
 Άσκηση 4: Προσθέστε περισσότερα δεδομένα στο αρχείο και δοκιμάστε παραδείγματα απο το documentation της βιβλιοθήκης (http://dimplejs.org/).
-
-# Κεφάλαιο: Σύνθεση
-
-
 
 
 
