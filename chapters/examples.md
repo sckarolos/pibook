@@ -32,7 +32,8 @@ show_meta: false
 ### Παράδειγμα 
 
 Παράδειγμα 
-<iframe id='ifr' width='640' height='385' scrolling='no' style='background: url(http://studio.processingtogether.com/static/img/jun09/pad/connectingbar.gif) no-repeat center 60px;' src='http://studio.processingtogether.com/sp/pad/iframe/ro.9Ske7AFEjdlpy/rev.33?autostart=0'></iframe>
+
+<iframe id='ifr' width='640' height='350' scrolling='no' style='background: url(http://studio.processingtogether.com/static/img/jun09/pad/connectingbar.gif) no-repeat center 60px;' src='http://studio.processingtogether.com/sp/pad/iframe/ro.9Ske7AFEjdlpy/rev.33?autostart=0'></iframe>
 
 Άσκηση: 
 
