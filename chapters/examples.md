@@ -39,7 +39,7 @@ show_meta: false
 
 1. Να μεταβάλλεται το opacity του background ανάλογα με την κίνηση του ποντικιού στον άξονα y.
 
-2.Να μεταβάλλεται το χρώμα το opacity των τεμνόμενων γραμμών ανάλογα με την κίνηση του ποντικιού στον άξονα x.
+2. Να μεταβάλλεται το χρώμα το opacity των τεμνόμενων γραμμών ανάλογα με την κίνηση του ποντικιού στον άξονα x.
 
 ### Παράδειγμα εισόδου μέσω της συσκευής ΠοντίκιΝο.3
 
@@ -134,7 +134,9 @@ show_meta: false
 
 <iframe id='ifr' width='640' height='350' scrolling='no' style='background: url(http://studio.processingtogether.com/static/img/jun09/pad/connectingbar.gif) no-repeat center 60px;' src='http://studio.processingtogether.com/sp/pad/iframe/ro.9GXKOUspGtjB1/rev.26?autostart=1'></iframe>
 
-Άσκηση: Τροποποιήστε το παράδειγμα έτσι ώστε ανάλογα με την κίνηση των δεικτών του ρολογιού να τυπώνεται η ώρα σε ψηφιακή μορφή. Μπορείτε να χρησιμοποιήσετε ως βοήθεια κάποιο από τα παραδείγματα: http://www.openprocessing.org/search/?q=digital+clock
+Άσκηση: Τροποποιήστε το παράδειγμα έτσι ώστε ανάλογα με την κίνηση των δεικτών του ρολογιού να τυπώνεται η ώρα σε ψηφιακή μορφή. Μπορείτε να χρησιμοποιήσετε ως βοήθεια κάποιο από τα παραδείγματα:
+
+http://www.openprocessing.org/search/?q=digital+clock
 
 ### Παράδειγμα αριθμομηχανής
 
@@ -178,7 +180,7 @@ show_meta: false
 
 Άσκηση: Δημιουργείστε δικό σας σύστημα αναπαραγωγής με κουμπιά Start (εκκίνηση) και Pause (Διακοπή) τα οποία να εκτελούν τις αντίστοιχες λειτουργίες στο υπάρχον Βίντεο. Για εκκίνηση του βίντεο μπορεί να χρησιμοποιηθεί το εξής παράδειγμα κώδικα Javascript:
 
-(https://raw.githubusercontent.com/sckarolos/codepen/master/img/js%20code.png)
+![JS code help example](../images/jscode.png)
 
 ### Παράδειγμα διαδραστικού παιχνιδιού 
 
