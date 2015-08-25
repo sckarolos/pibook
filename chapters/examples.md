@@ -25,7 +25,7 @@ show_meta: false
 
 Παράδειγμα διαδραστικού κώδικα που χρησιμοποιεί το ποντίκι ως συσκευή εισόδου. Ο χρήστης μπορεί να χρησιμοποιήσει το ποντίκι για να σχεδιάσει στη λευκή επιφάνεια (canvas). 
 
-<iframe id='ifr' width='640' height='350' scrolling='no' style='background: url(http://studio.processingtogether.com/static/img/jun09/pad/connectingbar.gif) no-repeat center 60px;' src='http://studio.processingtogether.com/sp/pad/iframe/ro.9Ph9ME6QCBN6d/rev.1?autostart=0'></iframe>
+<iframe id='ifr' width='640' height='350' scrolling='no' style='background: url(http://studio.processingtogether.com/static/img/jun09/pad/connectingbar.gif) no-repeat center 60px;' src='http://studio.processingtogether.com/sp/pad/iframe/ro.9Ph9ME6QCBN6d/rev.1?autostart=1'></iframe>
 
 Άσκηση: 
 
@@ -33,7 +33,7 @@ show_meta: false
 
 Παράδειγμα 
 
-<iframe id='ifr' width='640' height='350' scrolling='no' style='background: url(http://studio.processingtogether.com/static/img/jun09/pad/connectingbar.gif) no-repeat center 60px;' src='http://studio.processingtogether.com/sp/pad/iframe/ro.9Ske7AFEjdlpy/rev.33?autostart=0'></iframe>
+<iframe id='ifr' width='640' height='350' scrolling='no' style='background: url(http://studio.processingtogether.com/static/img/jun09/pad/connectingbar.gif) no-repeat center 60px;' src='http://studio.processingtogether.com/sp/pad/iframe/ro.9Ske7AFEjdlpy/rev.33?autostart=1'></iframe>
 
 Άσκηση: 
 
@@ -128,7 +128,7 @@ show_meta: false
 
 Διαδραστικό παράδειγμα εξομοίωσης λειτουργικής εξομοίωσης ρολογιού.
 
-<iframe id='ifr' width='640' height='350' scrolling='no' style='background: url(http://studio.processingtogether.com/static/img/jun09/pad/connectingbar.gif) no-repeat center 60px;' src='http://studio.processingtogether.com/sp/pad/iframe/ro.9GXKOUspGtjB1/rev.26?autostart=0'></iframe>
+<iframe id='ifr' width='640' height='350' scrolling='no' style='background: url(http://studio.processingtogether.com/static/img/jun09/pad/connectingbar.gif) no-repeat center 60px;' src='http://studio.processingtogether.com/sp/pad/iframe/ro.9GXKOUspGtjB1/rev.26?autostart=1'></iframe>
 
 Άσκηση: 
 
