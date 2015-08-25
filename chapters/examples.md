@@ -29,6 +29,13 @@ show_meta: false
 
 Άσκηση: 
 
+### Παράδειγμα 
+
+Παράδειγμα 
+<iframe id='ifr' width='640' height='385' scrolling='no' style='background: url(http://studio.processingtogether.com/static/img/jun09/pad/connectingbar.gif) no-repeat center 60px;' src='http://studio.processingtogether.com/sp/pad/iframe/ro.9Ske7AFEjdlpy/rev.33?autostart=0'></iframe>
+
+Άσκηση: 
+
 ### Παράδειγμα εισόδου μέσω της συσκευής Ποντίκι
 
 Παράδειγμα διαδραστικού κώδικα που χρησιμοποιεί το ποντίκι ως συσκευή εισόδου και δίνει ως έξοδο το ανάλογο αποτέλεσμα στην οθόνη. Για να αλλάξει η τιμή εισόδου πρέπει ο χρήστης να κυλίσει δεξιά ή αριστερά το πορτοκαλί "κουμπί ώστε να αλλάξει η τιμή εισόδου".
