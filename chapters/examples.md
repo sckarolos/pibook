@@ -21,8 +21,7 @@ show_meta: false
 
 Άσκηση: Τρποποποιήστε το παράδειγμα έτσι ώστε όταν δίνεται ως είσοδος ένα συγκεκριμένο πλήκτρο από το πληκτρολόγιο (π.χ. Space), να εκτελείται η λειτουργία reset / clear στo canvas (επαναφορά στη λευκή επιφάνεια). 
 
-<iframe src="http://hascanvas.com/drawonme/embed" frameborder="0" scrolling="no" style="width:600px;height:350px;"></iframe>
-
+<iframe src="http://hascanvas.com/hellomouse/embed" frameborder="0" scrolling="no" style="width:600px;height:400px;"></iframe>
 
 ### Παράδειγμα εισόδου μέσω της συσκευής Ποντίκι
 
