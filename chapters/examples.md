@@ -25,7 +25,9 @@ show_meta: false
 
 Παράδειγμα διαδραστικού κώδικα που χρησιμοποιεί το ποντίκι ως συσκευή εισόδου. Ο χρήστης μπορεί να χρησιμοποιήσει το ποντίκι για να σχεδιάσει στη λευκή επιφάνεια (canvas). 
 
-<iframe src="http://hascanvas.com/drawonme/embed" frameborder="0" scrolling="no" style="width:600px;height:350px;"></iframe>
+<p>
+<iframe id='ifr' width='600' height='335' scrolling='no' style='background: url(http://studio.processingtogether.com/static/img/jun09/pad/connectingbar.gif) no-repeat center 60px;' src='http://studio.processingtogether.com/sp/pad/iframe/ro.9XlotNkyNLzn2/rev.8?autostart=0'></iframe>
+</p>
 
 
 Άσκηση: 
