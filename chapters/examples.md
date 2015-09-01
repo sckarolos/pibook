@@ -309,5 +309,17 @@ http://www.openprocessing.org/search/?q=digital+clock
 
 Ασκηση: Τροποποιήστε τον κώδικα αλλάζοντας το υπάρχον αρχείο αναπαραγωγής με ένα άλλο της επιλογής σας. Κάντε το ίδιο για την αντίστοιχη εικόνα του παραδείγματος.
 
+### Links παραδειγμάτων απανταχού υπολογίζειν
+
+Παραδείγματα Arduino Board: http://playground.arduino.cc/Main/InterfacingWithHardware#InputTOC
+
+Παραδείγματα Beagleboard Board: http://beagleboard.org/Support/BoneScript
+
+Παραδείγματα raspberrypi Board: https://www.raspberrypi.org
+
+
+
+
+
 
 {% include license.html %}
