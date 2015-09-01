@@ -311,11 +311,14 @@ http://www.openprocessing.org/search/?q=digital+clock
 
 ### Links παραδειγμάτων απανταχού υπολογίζειν
 
-Παραδείγματα Arduino Board: http://playground.arduino.cc/Main/InterfacingWithHardware#InputTOC
+Παραδείγματα Arduino Board: 
+http://playground.arduino.cc/Main/InterfacingWithHardware#InputTOC
 
-Παραδείγματα Beagleboard Board: http://beagleboard.org/Support/BoneScript
+Παραδείγματα Beagleboard Board: 
+http://beagleboard.org/Support/BoneScript
 
-Παραδείγματα raspberrypi Board: https://www.raspberrypi.org
+Παραδείγματα raspberrypi Board: 
+https://www.raspberrypi.org
 
 
 
