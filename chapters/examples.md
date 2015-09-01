@@ -10,7 +10,7 @@ show_meta: false
 
 Σε αυτό το τμήμα μελετάμε μέσα από απλά παραδείγματα τη διάδραση του χρήστη με τον υπολογιστή. Εστιάζουμε την προσοχή μας σε ιδιότητες του διαδικτύου και ειδικά στα συστήματα εισόδου και εξόδου. Τα παραδείγματα έχουν αναπτυχθεί σε γλώσσες προγραμματισμού html, css, javascript καθώς και εξωτερικές βιβλιοθήκες.
 
-# Κεφάλαιο: Αρχέτυπα
+# Κεφάλαιο: Μέθοδος
 
 ### Παράδειγμα εισόδου χρησιμοποιώντας  το ποντίκι Νο.1
 
@@ -41,6 +41,17 @@ show_meta: false
 
 2. Να μεταβάλλεται το χρώμα το opacity των τεμνόμενων γραμμών ανάλογα με την κίνηση του ποντικιού στον άξονα x.
 
+### Παράδειγμα CSS Media Queries
+
+Παράδειγμα κώδικα με σκοπό να γίνει κατανοητή η χρήση των CSS media queries. Αλλάζοντας το μέγεθος του παραθύρου του περιηγητή (browser) σας αλλάζει το χρώμα της επιφάνειας του παραδείγματος. 
+
+<p data-height="350" data-theme-id="17517" data-slug-hash="vOoyJG" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='http://codepen.io/sckarolos/pen/vOoyJG/'>media queries example</a> by sckarolos (<a href='http://codepen.io/sckarolos'>@sckarolos</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+
+Άσκηση: Πειραματιστείτε με το παράδειγμα προσθέτοντας περισσότερα CSS media queries και αλλάζοντας το χρώμα του παραθούρου. Στη συνέχεια δοκιμάστε να εφαρμόσετε CSS media queries στο μέγεθος της γραμματοσειράς ώστε να απεικονίζεται σωστά σε όλα τα μεγέθη παραθύρων.
+
+# Κεφάλαιο: Αρχέτυπα
+
 ### Παράδειγμα εισόδου μέσω της συσκευής ΠοντίκιΝο.3
 
 Παράδειγμα διαδραστικού κώδικα που χρησιμοποιεί το ποντίκι ως συσκευή εισόδου και δίνει ως έξοδο το ανάλογο αποτέλεσμα στην οθόνη. Για να αλλάξει η τιμή εισόδου πρέπει ο χρήστης να κυλίσει δεξιά ή αριστερά το πορτοκαλί "κουμπί ώστε να αλλάξει η τιμή εισόδου".
@@ -50,16 +61,34 @@ show_meta: false
 
 Άσκηση: Αλλάξτε το χρώμα του αριθμού εξόδου, κάθε φορά που κινείται η μπάρα εισόδου. 
 
-# Κεφάλαιο: Εργαλεία 
+### Παράδειγμα εισόδου μέσω της συσκευής ΠοντίκιΝο.4
 
-### Παράδειγμα CSS Media Queries
+Παράδειγμα διαδραστικού κώδικα που χρησιμοποιεί το ποντίκι ως συσκευή εισόδου για τη συμπλήρωση της φόρμας και δίνει ως έξοδο το ανάλογο αποτέλεσμα στην οθόνη.
 
-Παράδειγμα κώδικα με σκοπό να γίνει κατανοητή η χρήση των CSS media queries. Αλλάζοντας το μέγεθος του παραθύρου του περιηγητή (browser) σας αλλάζει το χρώμα της επιφάνειας του παραδείγματος. 
-
-<p data-height="350" data-theme-id="17517" data-slug-hash="vOoyJG" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='http://codepen.io/sckarolos/pen/vOoyJG/'>media queries example</a> by sckarolos (<a href='http://codepen.io/sckarolos'>@sckarolos</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<p data-height="350" data-theme-id="17517" data-slug-hash="vNYZXK" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='http://codepen.io/sckarolos/pen/vNYZXK/'>Form Example</a> by sckarolos (<a href='http://codepen.io/sckarolos'>@sckarolos</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
-Άσκηση: Πειραματιστείτε με το παράδειγμα προσθέτοντας περισσότερα CSS media queries και αλλάζοντας το χρώμα του παραθούρου. Στη συνέχεια δοκιμάστε να εφαρμόσετε CSS media queries στο μέγεθος της γραμματοσειράς ώστε να απεικονίζεται σωστά σε όλα τα μεγέθη παραθύρων.
+Άσκηση: Τροποποιήστε το παράδειγμα προσθέτοντας ένα ακόμα κελί στη φόρμα. Το νέο κελί πρέπει να έχει προεπιλεγμένη τιμή "Gender" και οι διαθέσιμες επιλογές να είναι "Male","Female". Τοποθετείστε το κελί όπου εσείς θέλετε μέσα στο υπάρχον box.
+
+### Παράδειγμα εισόδου μέσω της συσκευής ΠοντίκιΝο.5
+
+Παράδειγμα διαδραστικού κώδικα όπου ο χρήστης χρησιμοποιώντας το ποντίκι, πατώντας το κουμπί "ANOTHER" μπορεί να αλλάξει τα εκτυπωμένα μηνύματα.
+
+<p data-height="350" data-theme-id="17517" data-slug-hash="dYyRJX" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='http://codepen.io/sckarolos/pen/dYyRJX/'>JS fitness 3: Dev compliment generator</a> by sckarolos (<a href='http://codepen.io/sckarolos'>@sckarolos</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+
+Άσκηση: Τροποποιήστε το παράδειγμα δημιουργώντας ένα 2ο κουμπί που θα εκτελεί τη την ανάποδη λειτουργία από αυτή του κουμπιού "ANOTHER". Το νέο κουμπί πρέπει να εμφανίζει το μήνυμα που είχε εμφανιστεί προηγουμένως. 
+
+### Παράδειγμα εισόδου μέσω της συσκευής ΠοντίκιΝο.6
+
+Παράδειγμα διαδραστικού κώδικα όπου ο χρήστης χρησιμοποιώντας το ποντίκι, μπορεί να αλλάξει δυναμικά το περιεχόμενο που θα εμφανίζεται στη σελίδα. Για το σκοπό αυτό γίνεται χρήση της Javascript βιβλιοθήκης  AngularJS (https://angularjs.org/).
+
+<p data-height="350" data-theme-id="17517" data-slug-hash="zvYzPg" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='http://codepen.io/sckarolos/pen/zvYzPg/'>Simple content toggle with AngularJS</a> by sckarolos (<a href='http://codepen.io/sckarolos'>@sckarolos</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+
+Άσκηση: Τροποποιήστε το παράδειγμα δημιουργώντας περισσότερες επιλογές στη φόρμα περιεχομένων. Δοκιμάστε να φέρετε δυναμικά στη σελίδα διαφορετικό περιεχόμενο (π.χ. εικόνες).
+
+# Κεφάλαιο: Εργαλεία 
 
 ### Παράδειγμα Μενού Νο.1
 
@@ -127,6 +156,15 @@ show_meta: false
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
 Άσκηση: Τροποποιήστε το παράδειγμα χρησιμοποιώντας φίλτρα εικόνας και συνδυασμούς αυτών. Παραδείγματα φίλτρων βρίσκονται ως σχόλια στην ενότητα με τον CSS κώδικα του παραδείγματος.
+
+### Παράδειγμα εφαρμογής εφέ σε εικόνα 
+
+Παράδειγμα διαδραστικού κώδικα στον οποίο όταν εκτελείται από το χρήστη η λειτουργία hover (κίνηση του ποντικιού πάνω από την εικόνα στο συγκεκριμένο παράδειγμα) μεγενθύνεται η εικόνα (zoom) χωρίς να αλλάζουν οι διαστάσεις του πλαισίου . 
+
+<p data-height="350" data-theme-id="17517" data-slug-hash="xwxrPb" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='http://codepen.io/sckarolos/pen/xwxrPb/'>Background Image zoom</a> by sckarolos (<a href='http://codepen.io/sckarolos'>@sckarolos</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+
+Άσκηση: Τροποποιήστε το παράδειγμα χρησιμοποιώντας φίλτρα εικόνας από το προηγούμενο παράδειγμα. Συνδυάστε τα φίλτρα εικόνας και τη χρήση zoom κατά τη λειτουργία hover (κίνηση του ποντικιού πάνω από την εικόνα).
 
 ### Παράδειγμα διαδραστικού ρολογιού
 
@@ -233,5 +271,43 @@ http://www.openprocessing.org/search/?q=digital+clock
 <iframe id='ifr' width='640' height='340' scrolling='no' style='background: url(http://studio.processingtogether.com/static/img/jun09/pad/connectingbar.gif) no-repeat center 60px;' src='http://studio.processingtogether.com/sp/pad/iframe/ro.98gblKGHeHScC/rev.7?autostart=1'></iframe>
 
 Άσκηση: Πειραματιστείτε με τον κώδικα του παραδείγματος αλλάζοντας το χρώμα και τη γωνία πτώσης του φωτός στη σφαίρα.
+
+# Κεφάλαιο: Μορφές 
+
+### Παράδειγμα με είσοδο κάμερα
+
+Διαδραστικό παράδειγμα κώδικα Processing. Το παράδειγμα χρησιμοποιεί ως είσοδο κάμερα και εφαρμόζει διαδραστικό πλέγμα/φίλτρο που λειτουργεί και ως έξοδος των όσως καταγράφει η κάμερα. Για να γίνει αντιληπτό το αποτέλεσμα του παραδείγματος είναι απαραίτητη η χρήση Web κάμερας. 
+
+<iframe id='ifr' width='640' height='350' scrolling='no' style='background: url(http://studio.processingtogether.com/static/img/jun09/pad/connectingbar.gif) no-repeat center 60px;' src='http://studio.processingtogether.com/sp/pad/iframe/ro.91scCw0Aios3L/rev.16?autostart=0'></iframe>
+
+Ασκηση: Ταυτόχρονα με την καταγραφή δεδομένων μέσω της κάμερας, πειραματιστείτε διαδρώντας με το πλέγμα χρησιμοποιώντας το ποντίκι. Ποια είναι τα σχόλιά σας;
+
+### Παράδειγμα με είσοδο κάμερα 2
+
+Διαδραστικό παράδειγμα κώδικα με χρήση κάμερας. Στο παράδειγμα υπάρχει δύο διαφορετικά πλαίσια (πράσινο και κόκκινο). Όταν εντοπιστεί κίνηση σε κάποιο πλαίσιο εμφανίζεται το αντίστοιχο μήνυμα. Για να γίνει αντιληπτό το αποτέλεσμα του παραδείγματος είναι απαραίτητη η χρήση Web κάμερας. 
+
+<p data-height="350" data-theme-id="17517" data-slug-hash="yYLKBj" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='http://codepen.io/sckarolos/pen/yYLKBj/'>Motion Detection</a> by sckarolos (<a href='http://codepen.io/sckarolos'>@sckarolos</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+
+Ασκηση: Τροποποιήστε τον κώδικα έτσι ώστε όταν εντοπίζεται κίνηση και στα δύο πλαίσια ταυτόχρονα να εμφανίζεται ένα νέο μήνυμα χωρίς να γίνει εμφάνιση των προηγούμενων.
+
+### Παράδειγμα με είσοδο κάμερα 3
+
+Διαδραστικό παράδειγμα κώδικα με χρήση κάμερας. Στο παράδειγμα υπάρχει ένα πλαίσιο πράσινου χρώματος . Όταν εντοπιστεί κίνηση μέσα στο πλαίσιο αλλάζει το χρώμα του background της σελίδας. Για να γίνει αντιληπτό το αποτέλεσμα του παραδείγματος είναι απαραίτητη η χρήση Web κάμερας. 
+
+<p data-height="350" data-theme-id="17517" data-slug-hash="VvwXjv" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='http://codepen.io/sckarolos/pen/VvwXjv/'>Motion Detection with Javascript Canvas</a> by sckarolos (<a href='http://codepen.io/sckarolos'>@sckarolos</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+
+Ασκηση: Τροποποιήστε τον κώδικα έτσι ώστε όταν εντοπίζεται κίνηση, το χρώμα του background να αλλάζει σε ένα συγκεκριμένο της επιλογής σας.
+
+### Παράδειγμα αναπαραγωγής ήχου
+
+Διαδραστικό παράδειγμα κώδικα που αναπαριστά ένα απλό σύστημα αναπαραγωγής ήχου. Κατά την επιλογή του κεντρικού εικονιδίου ξεκινάει η αναπαραγωγή του αρχείου ήχου. Για να γίνει αντιληπτό το αποτέλεσμα του παραδείγματος είναι απαραίτητη η χρήση ηχείων εξόδου. 
+
+<p data-height="350" data-theme-id="17517" data-slug-hash="OyJzZq" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='http://codepen.io/sckarolos/pen/OyJzZq/'>SoundCloud Mini player with css record animation</a> by sckarolos (<a href='http://codepen.io/sckarolos'>@sckarolos</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+
+Ασκηση: Τροποποιήστε τον κώδικα αλλάζοντας το υπάρχον αρχείο αναπαραγωγής με ένα άλλο της επιλογής σας. Κάντε το ίδιο για την αντίστοιχη εικόνα του παραδείγματος.
+
 
 {% include license.html %}
